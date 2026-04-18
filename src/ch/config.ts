@@ -7,7 +7,6 @@ const AppConfig = {
 export const Config = AppConfig;
 
 export const REMOVED_PLANS = new Set([
-  "coogan_pbr_mara_up_to_65",
   "frr_5k_01",
   "frr_5k_02",
   "frr_5k_03",
